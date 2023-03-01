@@ -3,5 +3,5 @@
     <string name="title">Body mass index</string>
     <string name="Height">Height (in cm)</string>
     <string name="Weight">Weight (in kg)</string>
-    <string name="bmiResult">Body mass index is %.1f</string>
+    <string name="bmiResult">Body mass index is %.2f</string>
 </resources>
